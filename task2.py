@@ -1,6 +1,6 @@
 #task 2
 # Prime number
-'''import math
+import math
 def is_prime(n):
     if n <=1:
       return False
@@ -10,7 +10,7 @@ def is_prime(n):
     return True
 # Example
 n = int(input("Enter a number to check if it is prime: "))
-print(is_prime(n))'''
+print(is_prime(n))
     
 
 #sum of digits
