@@ -1,6 +1,6 @@
 #task 2
 # Prime number
-'''import math
+import math
 def is_prime(n):
     if n <=1:
       return False
@@ -103,7 +103,7 @@ def count_vowels_consonants(s):
 s = input("Enter a string: ")
 vowels, consonants = count_vowels_consonants(s)
 print("Number of vowels:", vowels)
-print("Number of consonants:", consonants)'''
+print("Number of consonants:", consonants)
 
 
 # maze 
