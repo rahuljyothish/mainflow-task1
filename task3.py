@@ -1,7 +1,7 @@
 #Task 3
 #table of a number
 
-'''def multiplication_table(n, limit=10):
+def multiplication_table(n, limit=10):
      for i in range(1, 11):
         print(f"{n} x {i} = {n * i}")
 
@@ -90,7 +90,7 @@ def are_anagrams(s1, s2):
 # Example
 s1 = "listen"
 s2 = "silent"
-print(f"Are '{s1}' and '{s2}' anagrams? {are_anagrams(s1, s2)}")'''
+print(f"Are '{s1}' and '{s2}' anagrams? {are_anagrams(s1, s2)}")
 
 
 # Initialize board with 9 empty spaces
